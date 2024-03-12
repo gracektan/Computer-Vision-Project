@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>maksssksksss20.png</filename>
+	<path>/my-project-name/maksssksksss20.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>68</ymin>
+			<xmax>159</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>
